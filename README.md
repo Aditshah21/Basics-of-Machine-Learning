@@ -2,5 +2,5 @@
 Top Machine Learning Algorithms 
 
 This repo contains classical machine learning algortihms which clear basic concepts of starting from Linear Regression uptil Principal Component Analysis.
-Also, I have put down definition of each and every algorithm in respected notebooks so you don't need to go elsewhere to understand the algorithm. 
+Also, I have put down definition of each and every algorithm in their respected notebooks so you don't need to go elsewhere to understand the algorithm. 
 Feel free to play around with the data and notebooks. 
